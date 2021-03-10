@@ -17,7 +17,7 @@ The first is implemented by two portals which you can seemlessly walk through to
 
 # Installation (Windows only)
 
-Go to the release section, download the latest *.zip release and unpack the folder anywhere on your computer. Afterwards, simply run **Linking Infinity.exe**. To exit the program again, simply hit `Alt+F4`.
+Go to the [release section](https://github.com/jimekevin/Linking-Infinity/releases), download the latest *.zip release and unpack the folder anywhere on your computer. Afterwards, simply run **Linking Infinity.exe**. To exit the program again, simply hit `Alt+F4`.
 
 # Controls
 
