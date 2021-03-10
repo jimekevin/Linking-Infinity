@@ -1,3 +1,8 @@
+
+![preview](https://user-images.githubusercontent.com/7155940/110704378-2bfe7880-81f5-11eb-9ac5-23a4ec86922c.png)
+
+[Preview Video](https://drive.google.com/file/d/1Nycv5duLK_5t1Sw6i2_mkyw3nWSzEVjr/view?usp=sharing)
+
 # Linking Infinity
 
 Linking Infinity is the prototype which I developed for a university project at the chair of Architectural Informatics at TU Munich. The seminar was about exploring new ways for how architecture in virutal reality differs from its traditional counterpart and what chances and challenges it brings.
@@ -12,7 +17,7 @@ The first is implemented by two portals which you can seemlessly walk through to
 
 # Installation (Windows only)
 
-Go to the release section, download the latest *.zip release and unpack the folder anywhere on your computer. Afterwards, simply run **Linking Infinity.exe**. To exit the program again, click the `X` in the top right to close the window or hit `Alt+F4`.
+Go to the release section, download the latest *.zip release and unpack the folder anywhere on your computer. Afterwards, simply run **Linking Infinity.exe**. To exit the program again, simply hit `Alt+F4`.
 
 # Controls
 
