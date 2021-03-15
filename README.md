@@ -23,4 +23,4 @@ Go to the [release section](https://github.com/jimekevin/Linking-Infinity/releas
 
 You can either use a Gamepad or a Virtual Reality Headset. As for the latter, this is only tested with Oculus Quest 2 but it might work with other devices.
 
-`Left Stick` is moves the character and the `Right Stick` is rotates the camera. 
+`Left Stick` moves the character and `Right Stick` rotates the camera. 
